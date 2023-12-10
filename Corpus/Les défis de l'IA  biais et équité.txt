@@ -1,0 +1,1 @@
+L'IA peut être sujette à des biais si les données utilisées pour former les modèles sont biaisées. Assurer l'équité dans les systèmes d'IA est un défi majeur.

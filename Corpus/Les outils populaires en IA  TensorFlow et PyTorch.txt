@@ -1,0 +1,1 @@
+TensorFlow et PyTorch sont des bibliothèques populaires utilisées par les chercheurs et les développeurs pour construire des modèles d'IA.
